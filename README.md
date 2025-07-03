@@ -61,13 +61,18 @@ Players compete in a Scrabble-style game enriched with **bonus** and **trap** ti
 ### 2. Android Studio ile Aç:
 ```bash
 File > Open > KelimeMayinlariFirebase/
+```
+---
 ### 3. Çalıştır:
 Uygulama doğrudan emülatörde veya cihazda çalıştırılabilir
 
+```bash
 İlk kayıt → eşleşme → oyun ekranı akışı izlenebilir
+```
+---
 
 ## 📁 Proje Yapısı | Project Structure
-bash
+```bash
 Kopyala
 Düzenle
 KelimeMayinlariFirebase/
@@ -79,7 +84,10 @@ KelimeMayinlariFirebase/
 ├── gradle/
 ├── build.gradle.kts
 └── README.md
-##🎯 Ekranlar | Key Screens
+
+````
+
+## 🎯 Ekranlar | Key Screens
 🔐 Kayıt & Giriş (Firebase Auth)
 
 🏠 Ana Menü: Yeni Oyun, Aktif Oyunlar, Biten Oyunlar
@@ -92,6 +100,8 @@ KelimeMayinlariFirebase/
 
 🏁 Game Over: skorlar, kazanan, kalan harfler
 
+---
+
 ## 📚 Kaynaklar | References
 Firebase Docs
 
@@ -100,8 +110,16 @@ Jetpack Compose
 Kotlin Language
 
 CanNuhlar Türkçe Kelime Listesi
+---
+
+---
 
 ## 👩‍💻 Geliştirici | Developer
-Beyza Nur Gültekin
-Bilgisayar Mühendisliği – Kocaeli Üniversitesi
-📫 beyzanurgultekin124@gmail.com
+
+> **👤 Beyza Nur Gültekin**  
+> 🎓 *Computer Engineering – Kocaeli University*  
+> 📍 *Türkiye*  
+> 📫 **E-posta:** [beyzanurgultekin124@gmail.com](mailto:beyzanurgultekin124@gmail.com)  
+> 💻 **GitHub:** [github.com/Beyza-nur-g](https://github.com/Beyza-nur-g)
+
+---
